@@ -1,0 +1,140 @@
+[
+    {
+        "Version": 1,
+        "Key": "2154363",
+        "Type": "City",
+        "Rank": 55,
+        "LocalizedName": "Rocklin",
+        "EnglishName": "Rocklin",
+        "PrimaryPostalCode": "95677",
+        "Region": {
+            "ID": "NAM",
+            "LocalizedName": "North America",
+            "EnglishName": "North America"
+        },
+        "Country": {
+            "ID": "US",
+            "LocalizedName": "United States",
+            "EnglishName": "United States"
+        },
+        "AdministrativeArea": {
+            "ID": "CA",
+            "LocalizedName": "California",
+            "EnglishName": "California",
+            "Level": 1,
+            "LocalizedType": "State",
+            "EnglishType": "State",
+            "CountryID": "US"
+        },
+        "TimeZone": {
+            "Code": "PST",
+            "Name": "America/Los_Angeles",
+            "GmtOffset": -8,
+            "IsDaylightSaving": false,
+            "NextOffsetChange": "2021-03-14T10:00:00Z"
+        },
+        "GeoPosition": {
+            "Latitude": 38.791,
+            "Longitude": -121.236,
+            "Elevation": {
+                "Metric": {
+                    "Value": 73,
+                    "Unit": "m",
+                    "UnitType": 5
+                },
+                "Imperial": {
+                    "Value": 239,
+                    "Unit": "ft",
+                    "UnitType": 0
+                }
+            }
+        },
+        "IsAlias": false,
+        "SupplementalAdminAreas": [
+            {
+                "Level": 2,
+                "LocalizedName": "Placer",
+                "EnglishName": "Placer"
+            }
+        ],
+        "DataSets": [
+            "AirQualityCurrentConditions",
+            "AirQualityForecasts",
+            "Alerts",
+            "DailyAirQualityForecast",
+            "DailyPollenForecast",
+            "ForecastConfidence",
+            "FutureRadar",
+            "MinuteCast",
+            "Radar"
+        ]
+    },
+    {
+        "Version": 1,
+        "Key": "2293223",
+        "Type": "City",
+        "Rank": 85,
+        "LocalizedName": "Rocklin",
+        "EnglishName": "Rocklin",
+        "PrimaryPostalCode": "B0K",
+        "Region": {
+            "ID": "NAM",
+            "LocalizedName": "North America",
+            "EnglishName": "North America"
+        },
+        "Country": {
+            "ID": "CA",
+            "LocalizedName": "Canada",
+            "EnglishName": "Canada"
+        },
+        "AdministrativeArea": {
+            "ID": "NS",
+            "LocalizedName": "Nova Scotia",
+            "EnglishName": "Nova Scotia",
+            "Level": 1,
+            "LocalizedType": "Province",
+            "EnglishType": "Province",
+            "CountryID": "CA"
+        },
+        "TimeZone": {
+            "Code": "AST",
+            "Name": "America/Halifax",
+            "GmtOffset": -4,
+            "IsDaylightSaving": false,
+            "NextOffsetChange": "2021-03-14T06:00:00Z"
+        },
+        "GeoPosition": {
+            "Latitude": 45.498,
+            "Longitude": -62.779,
+            "Elevation": {
+                "Metric": {
+                    "Value": 53,
+                    "Unit": "m",
+                    "UnitType": 5
+                },
+                "Imperial": {
+                    "Value": 173,
+                    "Unit": "ft",
+                    "UnitType": 0
+                }
+            }
+        },
+        "IsAlias": false,
+        "SupplementalAdminAreas": [
+            {
+                "Level": 2,
+                "LocalizedName": "Pictou County",
+                "EnglishName": "Pictou County"
+            }
+        ],
+        "DataSets": [
+            "AirQualityCurrentConditions",
+            "AirQualityForecasts",
+            "Alerts",
+            "ForecastConfidence",
+            "FutureRadar",
+            "MinuteCast",
+            "Radar"
+        ]
+    }
+]
