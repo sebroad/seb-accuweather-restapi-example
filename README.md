@@ -2,6 +2,9 @@
 
 This repo is a very simple example of how one might use a REST API from Python. This example uses AccuWeather which is a relatively straightforward REST API.
 
+If you are unfamiliar with JSON, please try https://www.w3schools.com/python/python_json.asp
+If you are unfamiliar with HTTP requests, please review https://requests.readthedocs.io/en/master/
+
 If you want to use this example, you will need to
 * fork this repository and clone it locally... note the ```Fork``` button above (Hopefully you are familiar with this process)
 * sign up for a **free** AccuWeather Developer account https://developer.accuweather.com/user/register
